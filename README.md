@@ -1,3 +1,3 @@
 # Rust
 
-**Learning Rust Programming Language**# Rust
+**Learning Rust Programming Language**
